@@ -5,7 +5,7 @@ PLEN2 ControlBoard | PLEN Project Company
 - [NAOHIRO HAYAISHI](http://earlystone.com/)
 - [PLEN Project Company](https://plen.jp)
 
-## Build Enviroment
+## Build Environment
 - Windows 8.1
 - Eagle 6.60
 
