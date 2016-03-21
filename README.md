@@ -1,17 +1,15 @@
-PLEN - Baseboard
+PLEN2 ControlBoard | PLEN Project Company
 ================================================================================
-Copyright (c) 2015.
----
-- [NAOHIRO HAYAISHI](http://earlystone.com/)
-- [PLEN Project Company Ltd.](http://plen.jp)
 
-Build enviroment.
----
+## Copyright (c) 2015,
+- [NAOHIRO HAYAISHI](http://earlystone.com/)
+- [PLEN Project Company](https://plen.jp)
+
+## Build Enviroment
 - Windows 8.1
 - Eagle 6.60
 
-License.
----
+## License
 This material is released under the Creative Commons BY 4.0.
 
 **Attention!**  
