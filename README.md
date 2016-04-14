@@ -2,8 +2,8 @@ PLEN2 ControlBoard | PLEN Project Company
 ================================================================================
 
 ## Copyright (c) 2015,
-- [NAOHIRO HAYAISHI](http://earlystone.com/)
-- [PLEN Project Company](https://plen.jp)
+- [Naohiro HAYAISHI](http://earlystone.com/)
+- [PLEN Project Company Inc.](https://plen.jp)
 
 ## Build Environment
 - Windows 8.1

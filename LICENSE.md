@@ -5,7 +5,7 @@
 &quot;<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">PLEN - ControlBoard</span>&quot; is created by followings.
 <ul>
 	<li><a xmlns:cc="http://creativecommons.org/ns#" href="http://earlystone.com/" property="cc:attributionName" rel="cc:attributionURL">Naohiro HAYAISHI</a></li>
-	<li><a xmlns:cc="http://creativecommons.org/ns#" href="httsp://plen.jp" property="cc:attributionName" rel="cc:attributionURL">PLEN Project Company</a></li>
+	<li><a xmlns:cc="http://creativecommons.org/ns#" href="httsp://plen.jp" property="cc:attributionName" rel="cc:attributionURL">PLEN Project Company Inc.</a></li>
 </ul>
 
 This material is released under the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons BY 4.0</a>.
