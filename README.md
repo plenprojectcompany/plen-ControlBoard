@@ -1,8 +1,9 @@
 PLEN2 ControlBoard | PLEN Project Company
-================================================================================
+===============================================================================
 
 ## Copyright (c) 2015,
 - [Naohiro HAYAISHI](http://earlystone.com/)
+- [Mitsuhiro MIYAGUCHI](https://github.com/mitsuhiromiyaguchi)
 - [PLEN Project Company Inc.](https://plen.jp)
 
 ## Build Environment
